@@ -3,7 +3,7 @@ import 'package:mobile_movie_app/app/bindings/carga_binding.dart';
 import 'package:mobile_movie_app/app/bindings/login_binding.dart';
 import 'package:mobile_movie_app/app/bindings/signin_binding.dart';
 import 'package:mobile_movie_app/app/ui/pages/carga_page.dart';
-import 'package:mobile_movie_app/app/ui/pages/home_page.dart';
+import 'package:mobile_movie_app/app/ui/pages/home/home_page.dart';
 import 'package:mobile_movie_app/app/ui/pages/login_page.dart';
 import 'package:mobile_movie_app/app/ui/pages/signin_page.dart';
 part './app_routes.dart';
